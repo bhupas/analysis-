@@ -13,8 +13,7 @@ st.set_page_config(page_title="📞 Enhanced Call Analysis Report", layout="wide
 # Title and Description
 st.title("📞 Enhanced Call Analysis Report")
 st.write("""
-This comprehensive report provides an **in-depth analysis** of call patterns for user **method1909**. 
-The analysis includes advanced metrics, temporal patterns, and detailed breakdowns of call behaviors.
+This comprehensive report provides an **in-depth analysis** of call patterns for bhruna.
 """)
 
 # Load and process data
